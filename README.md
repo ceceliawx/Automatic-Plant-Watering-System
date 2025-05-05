@@ -24,10 +24,12 @@ Automatic Plant Watering System Circuit Diagram <br>
 The circuit diagram below illustrates an automated plant watering system using the ESP32C6 as the main controller. Since the water pump cannot be driven directly by the ESP32C6, a relay module is used for switching, powered by an external battery pack (3 x 1.5V). The ESP32C6 itself is powered via the UART port. 
 In the setup, the relay module is connected to GPIO4 of the ESP32C6, and the soil moisture sensor is connected to GPIO2. These two GPIO pins will be referenced in the control code.
 
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/1185575b-0ded-40b0-81de-c73ad9910f46" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/71c1a43a-6dd1-4fc1-b8c0-6148c7ad5c85" />
+
 
 Automatic Plant Watering System Case Technical Drawing <br>
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/b0c57b00-8afb-4453-ad36-8a99a5936a62" />
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/f9a28041-1b0d-4532-9e04-932d3442856d" />
+
 
 
 ### Reset to Factory
