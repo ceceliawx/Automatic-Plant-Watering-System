@@ -7,6 +7,8 @@ everyday tasks for convenience, efficiency, and sustainability. This project aim
 need for efficient plant care by developing an Automatic Plant Watering System using the ESP-
 IDF framework and ESP RainMaker platform.
 
+Additionally, this project takes switch example from ESP-IDF Rainmaker repository as fundamental file to edit and develop the plant watering system.
+
 # Required Components
 ESP32C6-WROOM-1 x1 <br>
 Soil Moisture Sensor x1 <br>
