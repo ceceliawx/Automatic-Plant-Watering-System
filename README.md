@@ -33,4 +33,4 @@ Automatic Plant Watering System Case Technical Drawing <br>
 ### Reset to Factory
 
 Press and hold the BOOT button for more than 3 seconds to reset the board to factory defaults. You will have to provision the board again to use it.# Automatic-Plant-Watering-System
-# Automatic-Plant-Watering-System
+
